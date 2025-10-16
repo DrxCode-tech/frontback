@@ -145,7 +145,7 @@ export default function App() {
             className="text-gray-600 font-bold cursor-pointer"  
           />  
           <h1 className="font-extrabold text-3xl tracking-tight bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent">  
-            Danni _pa shock u 
+            XI 
           </h1>  
         </header>  
   
