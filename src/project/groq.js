@@ -82,7 +82,7 @@ export default function App() {
   
     try {  
       // Send to backend  
-      const res = await fetch("http://localhost:3001/xi", {  
+      const res = await fetch("/api/ai", {  
         method: "POST",  
         headers: {  
         "Content-Type": "application/json",  
