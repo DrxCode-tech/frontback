@@ -82,7 +82,7 @@ export default function App() {
   
     try {  
       // Send to backend  
-      const res = await fetch("https://frontback-livid.vercel.app/api/ai", {  
+      const res = await fetch("/api/ai", {  
         method: "POST",  
         headers: {  
         "Content-Type": "application/json",  
